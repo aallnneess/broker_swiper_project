@@ -1,0 +1,7 @@
+{
+  "name": "inline-component",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
